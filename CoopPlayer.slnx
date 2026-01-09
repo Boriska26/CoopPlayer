@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CoopPlayer.Core/CoopPlayer.Core.csproj" />
+  <Project Path="CoopPlayer.Networking/CoopPlayer.Networking.csproj" />
+  <Project Path="CoopPlayer.WPF/CoopPlayer.WPF.csproj" />
+  <Project Path="CoopPlayer/CoopPlayer.csproj" />
+</Solution>
