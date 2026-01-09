@@ -1,4 +1,5 @@
-﻿using System.Windows;
+﻿using CoopPlayer.WPF.Views;
+using System.Windows;
 
 namespace CoopPlayer
 {
